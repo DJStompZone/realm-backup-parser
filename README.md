@@ -1,6 +1,8 @@
 # Minecraft Bedrock Realms Backup Fetcher / Parser
 
-This project provides utility functions for fetching and parsing backups from Minecraft Bedrock Realms.
+![banner](https://i.imgur.com/TyaRONE.jpg)
+
+This project provides utility functions for fetching and parsing backups from the Minecraft Bedrock Realms API.
 
 ## Functions
 
