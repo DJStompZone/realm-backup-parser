@@ -27,7 +27,7 @@ Before you run these functions, make sure to edit the example.config.json file i
 ```json
 {
   "XBL3TOKEN": "your-auth-token",
-  "REALMID": "your-realm-id"
+  "REALMID": 000000000
 }
 ```
 
