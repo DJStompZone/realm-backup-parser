@@ -27,6 +27,7 @@ Before you run these functions, make sure to edit the example.config.json file i
   "XBL3TOKEN": "your-auth-token",
   "REALMID": "your-realm-id"
 }
+```
 
 You will need to copy or rename the `example.config.json` to `config.json`.
 Note: Never commit config.json file into your version control system (Git). This file contains sensitive data and should be kept secret.
