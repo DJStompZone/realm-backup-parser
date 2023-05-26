@@ -1,0 +1,15 @@
+{
+  "name": "realm-backup-parser",
+  "version": "1.0.1",
+  "description": "This project provides utility functions for fetching and parsing backups from the Minecraft Bedrock Realms API.",
+  "main": "parseBackups.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": ["minecraft", "bedrock", "realms", "API", "backups"],
+  "author": "DJ Stomp#2525",
+  "license": "MIT",
+  "dependencies": {
+    "axios": "^1.4.0"
+  }
+}
